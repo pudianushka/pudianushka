@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pudi Anushka
 
-### 🌸 B.Tech Student | Python Learner | AI & Web Development Enthusiast
+### B.Tech Student | Python Learner | AI & Web Development Enthusiast
 
 I’m passionate about learning technology, building projects, and improving my problem-solving skills through coding and real-world development.
 
