@@ -27,11 +27,16 @@ I’m passionate about learning technology, building projects, and improving my 
 
 ### 📖 Trackademy
 
-Website that help students to stay smartly organised with notes during exams
+AI based Website that help students to stay smartly organised with notes during exams
+
+### 📱OTP Generator(ATM project)
+
+A java based mini project built with integartion of twilio 
 
 ### 🧠 Striver's DSA Progress Tracker
 
 Tracking my DSA learning journey with structured problem solving.
+
 
 ---
 
