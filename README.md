@@ -15,11 +15,12 @@ I’m passionate about learning technology, building projects, and improving my 
 
 ---
 
-## 🛠️ Tech Stack
-
-
-
-\
+## 🛠️ Technical skills
+HTML
+CSS
+Javascript
+Python
+Java
 
 ---
 
