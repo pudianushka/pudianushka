@@ -42,21 +42,10 @@ Tracking my DSA learning journey with structured problem solving.
 
 ---
 
-## Certifications
+## 📜Certifications
 
 * NPTEL certified in Python
 * Cisco Networking Academy 
-## 📜 Certifications
-
-<a href="YOUR_CISCO_LINK">
-  <img src="./certificates/cisco.png" width="400">
-</a>
-
-<a href="YOUR_DELOITTE_LINK">
-  <img src="./certificates/deloitte.png" width="400">
-</a>
-
----
 
 ## 🤝 Connect With Me
 
