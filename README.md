@@ -8,7 +8,7 @@ I’m passionate about learning technology, building projects, and improving my 
 
 ## 🚀 About Me
 
-* 🎓 First-year B.Tech student
+* 🎓 Third -year B.Tech student
 * 💻 Learning Python, DSA, AI & Web Development
 * 🌱 Building projects like Trackademy and Quiz Applications
 * 🎯 Looking for internship opportunities
@@ -38,6 +38,10 @@ A java based mini project built with integartion of twilio
 ### 🧠 Striver's DSA Progress Tracker
 
 Tracking my DSA learning journey with structured problem solving.
+
+## 🍃 CampusConnect *(Currently Building)*
+
+A full-stack Java application built with Spring Boot, focused on improving campus communication and student services.
 
 
 ---
