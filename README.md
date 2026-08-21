@@ -45,7 +45,7 @@ Tracking my DSA learning journey with structured problem solving.
 ## 📜Certifications
 
 * NPTEL certified in Python
-* Cisco Networking Academy 
+* Cisco Networking Academy(Introduction To Cyber Security)
 
 ## 🤝 Connect With Me
 
