@@ -16,11 +16,11 @@ I’m passionate about learning technology, building projects, and improving my 
 ---
 
 ## 🛠️ Technical skills
-HTML
-CSS
-Javascript
-Python
-Java
+*HTML
+*CSS
+*Javascript
+*Python
+*Java
 
 ---
 
