@@ -12,7 +12,7 @@ I’m passionate about learning technology, building projects, and improving my 
 * Department of Information Technology
 * SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN(SVECW), Bhimavaram
 * 💻 Learning Python, DSA, AI & Web Development
-* 🌱 Building projects like Trackademy and Quiz Applications
+* 🌱 Building projects like CampusConnect , Trackademy and Quiz Applications
 * 🎯 Looking for internship opportunities
 
 ---
