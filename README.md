@@ -9,6 +9,7 @@ I’m passionate about learning technology, building projects, and improving my 
 ## 🚀 About Me
 
 * 🎓 Third -year B.Tech student
+* Department of Information Technology
 * SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN(SVECW), Bhimavaram
 * 💻 Learning Python, DSA, AI & Web Development
 * 🌱 Building projects like Trackademy and Quiz Applications
@@ -53,7 +54,7 @@ The Joy of Computing Using Python — NPTEL
 * Fundamentals of Java — Infosys Springboard — 2026
 * Cyber Job Simulation — Deloitte (Forage)
 * Gen AIPowered Data Analytics Job Simulation — Tata (Forage)
-* Machine Learning Fundamentals (AWS badge
+* Machine Learning Fundamentals (AWS badge)
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/anushka-pudi-847452323/
